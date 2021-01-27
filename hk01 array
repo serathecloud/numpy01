@@ -1,0 +1,4 @@
+import numpy as np
+np.__version__
+a=np.arange(0,21,1)
+print(a)
