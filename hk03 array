@@ -1,0 +1,4 @@
+import numpy as np
+v=int(input())
+g=np.log10(v/20)
+20*g
